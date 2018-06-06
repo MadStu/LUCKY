@@ -12,9 +12,9 @@ echo "blah" > getinfo.json
 
 sudo apt-get install jq pwgen -y
 
-#killall zerooned
-#rm -rf zero*
-#rm -rf .zero*
+#killall luckybitd
+#rm -rf luck*
+#rm -rf .luck*
 
 mkdir ~/luckybit
 cd ~/luckybit
