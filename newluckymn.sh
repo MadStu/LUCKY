@@ -124,7 +124,7 @@ while [ "$meanu" != 1 ]; do
 			echo "    block sync will then continue in the background."
 			echo " "
 			echo "  - If you exit this script early, you'll need to grab the"
-			echo "    masternode genkey yourself from the race.conf file."
+			echo "    masternode genkey yourself from the luckybit.conf file."
 			echo " "
 			sleep 5
 			MNSYNC=$(~/luckybit/luckybit-cli mnsync status)
