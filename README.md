@@ -58,7 +58,7 @@ reboot
 
 Now log back in using the same IP address, but with the username "luckyuser" and the password that was generated for you.
 
-Copy and paste the following into the command line. Enter your zocuser password if asked and let it run. It may take a while.
+Copy and paste the following into the command line. Enter your luckyuser password if asked and let it run. It may take a while.
 
 ```
 wget -O lucky.sh https://git.io/vh0ND && sh lucky.sh
